@@ -1,5 +1,7 @@
 # Presentation at fOSSa 2014
 
+[**Proof of Initial Publication 10th November 2014](http://www.cryptograffiti.info/?txnr=1618**)  
+
 I have been invited to speak at [fOSSa 2014](https://fossa.inria.fr/) Stephane Ribas at [INRA](https://www.linkedin.com/company/164385) on the 19th November 2014.  
 
 Details on my attendance are still to be worked out as I have very little time to spare these days. This repo will be a learning process as I will be tracking my time and work using tools from [Quantified Self](http://en.wikipedia.org/wiki/Quantified_Self) movement such as [Rescue Time](https://www.rescuetime.com/), [Toggle](https://www.toggl.com/) and of course the Blockchain.  
