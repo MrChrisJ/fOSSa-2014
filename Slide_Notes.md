@@ -75,6 +75,7 @@ The wealthy
 The powerful 
 The people
 
+It’s so interesting being a Bitcoin ‘fan’, whenever you meet someone they’re like “don’t give me the pitch!”
 
 
 
