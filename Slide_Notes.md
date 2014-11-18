@@ -5,18 +5,6 @@
 
 ###### Assumptions
 
-1. Defining definition
-	- To demarcate
-	- Mini-max Occam's Razor
-2. We are all disposed to the same number of hours in a day
-	- Good decisions require information and good judgement
-	- I want to help people make well informed decisions
-	- Because that’s the help that I need myself
-3. Risk is a distributed phenomena 
-4. Ideas can come from anywhere and anyone
-2. Defining Entrepreneur
-	- The ability to anticipate demand
-	- Well performing entrepreneurship is recognised
 3. Defining Business
 - A sequence of activities agreed upon by a group of individuals
 4. Defining Profit 
@@ -77,7 +65,7 @@ The people
 
 It’s so interesting being a Bitcoin ‘fan’, whenever you meet someone they’re like “don’t give me the pitch!”
 
-
+The internet is a network of networks
 
 
 
