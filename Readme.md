@@ -1,6 +1,6 @@
 # Presentation at fOSSa 2014
 
-View the presentation slides: **[First Principles](bit.ly/fossa2014)**  
+View the presentation slides: **[First Principles](http://bit.ly/fossa2014)**  
 
 **Timestamps**  
 **[Proof of Initial Publication 10th November 2014](http://www.cryptograffiti.info/?txnr=1618)**  
