@@ -1,10 +1,13 @@
 # Presentation at fOSSa 2014
 
+Listen to the presentation: [First Principles - Presentation by Chris Ellis at fOSSa2014](https://soundcloud.com/mrchrisellis/first-principles-presentation-by-chris-ellis-at-fossa2014)  
 View the presentation slides: **[First Principles](http://bit.ly/fossa2014)**  
+Also see [Legal Release Notarisation](https://github.com/MrChrisJ/fOSSa-2014/tree/master/Release-Contract) on the Blockchain  
 
 **Timestamps**  
 **[Proof of Initial Publication 10th November 2014](http://www.cryptograffiti.info/?txnr=1618)**  
 [2014-11-18—0750](http://www.cryptograffiti.info/?txnr=1638)  
+[2014-11-19—2311](http://www.cryptograffiti.info/?txnr=1642) *Delayed due to poor internet connectivity*
 
 I have been invited to speak at [fOSSa 2014](https://fossa.inria.fr/) Stephane Ribas at [INRA](https://www.linkedin.com/company/164385) on the 19th November 2014.  
 
